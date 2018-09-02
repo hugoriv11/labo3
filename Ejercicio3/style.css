@@ -5,7 +5,7 @@
     text-transform: uppercase;
     height: 2.5em;
     width: 6em;
-    display: inline;
+    display: inline-block;
 }
 
 #peque {
@@ -17,7 +17,7 @@
     width: 6.4em;
     font-size: 11px;
     font-weight: 100;
-    display: inline;
+    display: inline-block;
 }
 
 #grande {
@@ -29,7 +29,7 @@
     width: 8em;
     font-size: 15px;
     font-weight: 700;
-    display: inline;
+    display: inline-block;
 }
 
 #esmeralda {
