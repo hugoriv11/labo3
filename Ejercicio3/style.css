@@ -1,0 +1,195 @@
+#normal {
+    background-color: rgb(226, 220, 220);
+    border: none;
+    border-radius: 2px;  
+    text-transform: uppercase;
+    height: 2.5em;
+    width: 6em;
+    display: inline;
+}
+
+#peque {
+    background-color: rgb(226, 220, 220);
+    border: none;
+    border-radius: 2px;  
+    text-transform: uppercase;
+    height: 1.4em;
+    width: 6.4em;
+    font-size: 11px;
+    font-weight: 100;
+    display: inline;
+}
+
+#grande {
+    background-color: rgb(226, 220, 220);
+    border: none;
+    border-radius: 2px;  
+    text-transform: uppercase;
+    height: 4em;
+    width: 8em;
+    font-size: 15px;
+    font-weight: 700;
+    display: inline;
+}
+
+#esmeralda {
+    color: white;
+    background-color: rgb(84, 226, 139);
+    border: none;
+    border-radius: 2px;
+    height: 2.5em;
+    text-transform: uppercase;
+    
+}
+
+#cielo {
+    color: white;
+    background-color: rgb(68, 171, 240);
+    border: none;
+    border-radius: 2px;
+    height: 2.5em;
+    text-transform: uppercase;
+}
+
+#amatista {
+    color:  white;
+    background-color: rgb(136, 122, 219);
+    border: none;
+    border-radius: 2px;
+    height: 2.5em;
+    text-transform: uppercase;
+}
+
+#asfalto {
+    color: white;
+    background-color: rgb(89, 91, 92);
+    border: none;
+    border-radius: 2px;
+    height: 2.5em;
+    text-transform: uppercase;
+}
+#topazio {
+    color: white;
+    background-color: rgb(223, 115, 26);
+    border: none;
+    border-radius: 2px;
+    height: 2.5em;
+    text-transform: uppercase;
+}
+
+#rubi {
+    color: white;
+    background-color: rgb(252, 55, 6);
+    border: none;
+    border-radius: 2px;
+    height: 2.5em;
+    text-transform: uppercase;
+}
+/**/
+#simple-bor {
+    color: rgb(115, 116, 117);
+    background-color: white;
+    border-radius: 5px;
+    border-color: rgb(115, 116, 117);
+    height: 2.5em;
+    text-transform: uppercase;
+}
+#esmeralda-bor {
+    color: rgb(84, 226, 139);
+    background-color: white;
+    border-radius: 5px;
+    border-color: rgb(84, 226, 139);
+    height: 2.5em;
+    text-transform: uppercase;
+    
+}
+
+#cielo-bor {
+    color: rgb(68, 171, 240);
+    background-color: white;
+    border-radius: 5px;
+    border-color: rgb(68, 171, 240);
+    height: 2.5em;
+    text-transform: uppercase;
+}
+
+#amatista-bor {
+    color:  rgb(136, 122, 219);
+    background-color: white;
+    border-radius: 5px;
+    border-color: rgb(136, 122, 219);
+    height: 2.5em;
+    text-transform: uppercase;
+}
+
+#asfalto-bor {
+    color: rgb(89, 91, 92);
+    background-color: white;
+    border-radius: 5px;
+    border-color: rgb(89, 91, 92);
+    height: 2.5em;
+    text-transform: uppercase;
+}
+#topazio-bor {
+    color: rgb(223, 115, 26);
+    background-color: white;
+    border-radius: 5px;
+    border-color: rgb(223, 115, 26);
+    height: 2.5em;
+    text-transform: uppercase;
+}
+
+#rubi-bor {
+    color: rgb(252, 55, 6);
+    background-color: white;
+    border-radius: 5px;
+    border-color: rgb(252, 55, 6);
+    height: 2.5em;
+    text-transform: uppercase;
+}
+/**/
+#largo-asfalto {
+    color: white;
+    background-color: rgb(89, 91, 92);
+    border: none;
+    border-radius: 5px;
+    height: 4em;
+    width: 9em;
+    text-transform: uppercase;
+}
+#borde-del-cielo{
+    color: rgb(68, 171, 240);
+    background-color: white;
+    border-radius: 5px;
+    border-color: rgb(68, 171, 240);
+    height: 3em;
+    width: 10.5em;
+    text-transform: uppercase;
+    font-size: 0.7em;
+}
+#peque-esmeralda {
+    color: white;
+    background-color: rgb(84, 226, 139);
+    border: none;
+    border-radius: 2px;
+    height: 2.5em;
+    text-transform: uppercase;
+    font-size: 0.6em;
+}
+#gran-bor-rubi {
+    color: rgb(252, 55, 6);
+    background-color: white;
+    border-radius: 5px;
+    border-color: rgb(252, 55, 6);
+    height: 4em;
+    text-transform: uppercase;
+}
+
+div {
+    padding-left: 1em;
+}
+
+body {
+    border: 2em;
+    border-color: black;
+}
